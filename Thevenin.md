@@ -12,29 +12,3 @@ Short current = vin/r1
 
 Voltage = Vin*r2/R1+R2
 Resistance = R1/Vin * Vin*r2/R1+R2
-
-
-Example
-
-
-30* 10/20
-
-15v vthrev
-
-short circut
-
-30/10k 0.003
-15/0.003
-15v, 5000 ohms
-
-10v threv
-
-15v/50000 = 0.003 amps
-
-10v voltage, resistance = v/r, 3,333 ohms 
-
-0.003^2*3333 =  0.03w
-
-
-
-
