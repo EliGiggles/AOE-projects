@@ -5,5 +5,13 @@ Trimming resistors: add a series resistor to trim up, and a paralell resistor to
 
 Conductance: the inverse of resistance: paralell conductances sum while series conductances subtract
 
+Voltage divider
+vout over r2
+r2/r1+r2 * vin
+
+Current source: mantains a constant current between terminals
+Voltage Source: mantains a contstant voltage across terminals
+  - Batteries are voltage sources with series resistors
+
 
 
