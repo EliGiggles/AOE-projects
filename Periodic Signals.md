@@ -7,9 +7,16 @@ Decibels:
 
 <img width="163" alt="image" src="https://github.com/user-attachments/assets/f568c5dd-a462-4561-bc76-c1533857fafd" />
 
-The number of decibels in a power ratio is equal to 10x the power you need to raise 10 to to get the power ratio.
+The number of decibels in a power ratio: 10 times log10(ratio) (the power you need to raise 10 to in order to get the ratio)
 
 <img width="171" alt="image" src="https://github.com/user-attachments/assets/40e6f97c-4056-469f-9d59-c222e4dab2db" />
+
 Twenty times for amplitudes
+
+Decibels are always relative to something - if you just see decibels it is in reference to:
+
+1v RMS, the voltage required to output 1 mW at some load impedance
+
+
 
 
