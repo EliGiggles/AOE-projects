@@ -11,4 +11,5 @@ For a voltage divider r1 - R2, the circut's open-circut voltage is the voltage a
 Short current = vin/r1
 
 Voltage = Vin*r2/R1+R2
+Resistance = V/I
 Resistance = R1/Vin * Vin*r2/R1+R2
