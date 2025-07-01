@@ -1,3 +1,6 @@
+Q=CV
+If a capacitor has V volts across its terminals and capacitance C, then it has Q columbs of charge on each terminal
+
 Coulombs: units of charge. One Coulomb of charge will sustain a current of one amp for one second
 
 plate area A, seperation d
@@ -9,5 +12,5 @@ Current through a capacitor = dV/dT
 Stored energy in a capacitor = 0.5CV^2
 
 Capacitors in paralell: Ctotal * V= Qtotal = Q1 + Q2 + Q3
-
+ 
 Capacitors in series: 1/((1/c1) + (1/c2) ...)
