@@ -13,3 +13,4 @@ Short current = vin/r1
 Voltage = Vin*r2/R1+R2
 Resistance = V/I
 Resistance = R1/Vin * Vin*r2/R1+R2
+You don't need VIN to find the Threvinin resistance - the vins cancell
