@@ -14,6 +14,6 @@ Works when l > 0.4d
 Boost and buck converters
 
 <img width="293" alt="image" src="https://github.com/user-attachments/assets/c1600f27-12de-4e1f-a3ca-be491b166ea9" />
-
+The averange voltage across both these inductors must be zero - otherwise the current keeps increasing.
 
 Play.armor-alley.net
