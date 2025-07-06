@@ -7,3 +7,4 @@ t = RC log(e)(Vf/Vf−V)
 
 Voltage  across a capacitor
 Vout = Vf (1−e^−t/RC).
+
